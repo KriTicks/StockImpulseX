@@ -5,6 +5,7 @@
 **Контроль сроков годности для магазинов и складов**
 
 <img src="https://i.ibb.co/p6WZswxD/logo-Impulse.png" alt="logo Impulse" border="0">
+<br/>
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
 <img src="https://img.shields.io/badge/WPF-5C2D91?style=for-the-badge&logo=windows&logoColor=white" alt="WPF">
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
